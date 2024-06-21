@@ -226,3 +226,8 @@ footer{
     font-size: 15px;
    
 }
+
+#xx > video{
+    width: 65%;
+    right: 105px;
+}
